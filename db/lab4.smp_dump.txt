@@ -1,0 +1,7 @@
+
+State Machine - |vhdl_space_invaders_top|game_controller:inst3|current_state
+Name current_state.game_over current_state.gameplay current_state.pre_game current_state.init 
+current_state.init 0 0 0 0 
+current_state.pre_game 0 0 1 1 
+current_state.gameplay 0 1 0 1 
+current_state.game_over 1 0 0 1 

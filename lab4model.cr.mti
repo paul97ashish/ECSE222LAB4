@@ -1,0 +1,78 @@
+C:/intelFPGA/17.0/lab4/video_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/video_gen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity video_gen
+-- Compiling architecture behaviour of video_gen
+
+} {} {}} C:/intelFPGA/17.0/lab4/sprite_rom.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/sprite_rom.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sprite_rom
+-- Compiling architecture Behavioral of sprite_rom
+
+} {} {}} C:/intelFPGA/17.0/lab4/random_32bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/random_32bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity random_32bit
+-- Compiling architecture behaviour of random_32bit
+
+} {} {}} C:/intelFPGA/17.0/lab4/vga_controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/vga_controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity vga_controller
+-- Compiling architecture behaviour of vga_controller
+
+} {} {}} C:/intelFPGA/17.0/lab4/game_controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/game_controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity game_controller
+-- Compiling architecture behaviour of game_controller
+
+} {} {}} C:/intelFPGA/17.0/lab4/tb_game_controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/tb_game_controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_game_controller
+-- Compiling architecture behaviour of tb_game_controller
+
+} {} {}} C:/intelFPGA/17.0/lab4/clock_divider.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/clock_divider.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clock_divider
+-- Compiling architecture behaviour of clock_divider
+
+} {} {}} C:/intelFPGA/17.0/lab4/vga_clk.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/vga_clk.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vga_clk
+-- Compiling architecture rtl of vga_clk
+
+} {} {}} C:/intelFPGA/17.0/lab4/ram_video_buffer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA/17.0/lab4/ram_video_buffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ram_video_buffer
+-- Compiling architecture behaviour of ram_video_buffer
+
+} {} {}}
